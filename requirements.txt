@@ -1,0 +1,4 @@
+gidgethub >= 2.5.0, <3
+setuptools-scm >= 2.0.0, <3
+aiohttp
+cachetools
